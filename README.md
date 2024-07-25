@@ -3,7 +3,7 @@
 fun main(){
 
 
-var car:String = "BMW"
+    var car:String = "BMW"
     println(car)
     
     
